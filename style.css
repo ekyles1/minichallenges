@@ -1,0 +1,17 @@
+#light-bulb {
+    content: "Light Bulb";
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+   
+    background-color: pink;
+    
+  }
+  
+  #light-bulb.on {
+    background-color: yellow;
+  }
+  
+  #light-bulb.off {
+    background-color: gray;
+  }
